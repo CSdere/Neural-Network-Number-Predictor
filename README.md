@@ -2,6 +2,7 @@
 
 ### Step 1
 Run the following line in your CLI depending on your package manager.
+
 pip:
 ```
 pip install numpy matplotlib scikit-learn pillow
